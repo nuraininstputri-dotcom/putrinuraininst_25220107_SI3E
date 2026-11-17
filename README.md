@@ -2,6 +2,6 @@
 
 Slicing layout Web Dashboard menggunakan HTML dan CSS.
 
-- Nama  : (isi nama)
-- NIM   : (isi nim)
-- Kelas : (isi kelas)
+- Nama  : Putri Nuraini Nst
+- NIM   : 25220107
+- Kelas : SI-3E
